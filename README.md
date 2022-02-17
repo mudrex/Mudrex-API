@@ -1,4 +1,4 @@
-# Mudrex API
+# Mudrex API Authentication
 
 ## Usage
 
